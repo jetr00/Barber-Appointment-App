@@ -6,7 +6,7 @@ Features:
 
 Appointment scheduling and management
 
-User-friendly interface (CLI/GUI, depending on what you used)
+User-friendly interface (GUI)
 
 Basic validation for input data
 
